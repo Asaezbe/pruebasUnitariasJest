@@ -1,3 +1,4 @@
+///Test de visualizacion de componente Post
 import { mount } from '@vue/test-utils'
 import { createRouter, createWebHistory } from 'vue-router'
 

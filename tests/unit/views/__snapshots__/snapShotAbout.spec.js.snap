@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutView Snapshot debería hacer match con el snapshot actual 1`] = `
+<div class="Contact">
+  <h1>Somos gente genial.<br>De momento construimos un sitio mejor.</h1>
+</div>
+`;
